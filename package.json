@@ -1,6 +1,6 @@
 {
   "name": "parakeet",
-  "description": "a command line utility to echo TCP/UDP/HTTP messages",
+  "description": "Echo server for TCP/UDP/HTTP",
   "author": "Ahmad Nassri <ahmad@ahmadnassri.com> (https://www.ahmadnassri.com/)",
   "homepage": "https://github.com/ahmadnassri/parakeet",
   "repository": {
@@ -8,12 +8,18 @@
     "url": "https://github.com/ahmadnassri/parakeet.git"
   },
   "license": "ISC",
-  "main": "lib/index.js",
   "bin": {
     "parakeet": "lib/bin.js"
   },
   "keywords": [
-    "parakeet"
+    "debug",
+    "echo",
+    "http",
+    "mock",
+    "parakeet",
+    "server",
+    "tcp",
+    "udp"
   ],
   "engines": {
     "node": ">=0.10"

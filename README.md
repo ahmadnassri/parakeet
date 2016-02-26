@@ -1,6 +1,6 @@
-# ![parakeet][logo] parakeet [![version][npm-version]][npm-url] [![License][npm-license]][license-url]
+# parakeet [![version][npm-version]][npm-url] [![License][npm-license]][license-url]
 
-> unnamed package
+> Echo server for TCP/UDP/HTTP
 
 [![Build Status][travis-image]][travis-url]
 [![Downloads][npm-downloads]][npm-url]
@@ -11,6 +11,13 @@
 ## Demo
 
 Watch the screencast [here](https://asciinema.org/a/bz8d1x2imc5zalplndczxgtek)
+
+## Parakeet
+
+> The common parakeet (Melopsittacus undulatus), is a popular talking-bird species because of their potential for large vocabularies, ease of care and well-socialized demeanor.
+> [https://en.wikipedia.org/wiki/Parakeet](https://en.wikipedia.org/wiki/Parakeet)
+
+![parakeet][parakeet] 
 
 ## Message Format
 
@@ -96,7 +103,7 @@ npm install --save parakeet
 > Github: [@ahmadnassri](https://github.com/ahmadnassri) &nbsp;&middot;&nbsp;
 > Twitter: [@ahmadnassri](https://twitter.com/ahmadnassri)
 
-[logo]: https://github.com/ahmadnassri/parakeet/blob/master/logo.png
+[parakeet]: https://github.com/ahmadnassri/parakeet/blob/master/parakeet.png
 
 [license-url]: https://github.com/ahmadnassri/parakeet/blob/master/LICENSE
 

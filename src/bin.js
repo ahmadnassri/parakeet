@@ -2,7 +2,7 @@
 
 import program from 'commander'
 import pkg from '../package'
-import * as echo from './index'
+import { http, tcp, udp } from './index'
 
 program
   .version(pkg.version)
@@ -12,17 +12,17 @@ program
 program
   .command('http')
   .description('start HTTP echo server')
-  .action(() => echo.http(program))
+  .action(() => http(program))
 
 program
   .command('tcp')
   .description('start TCP echo server')
-  .action(() => echo.tcp(program))
+  .action(() => tcp(program))
 
 program
   .command('udp')
   .description('start UDP echo server')
-  .action(() => echo.udp(program))
+  .action(() => udp(program))
 
 program
   .command('*', false, { noHelp: true })
