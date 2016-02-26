@@ -15,7 +15,7 @@ Watch the screencast [here](https://asciinema.org/a/37456)
 > The common parakeet (Melopsittacus undulatus), is a popular talking-bird species because of their potential for large vocabularies, ease of care and well-socialized demeanor.
 > [https://en.wikipedia.org/wiki/Parakeet](https://en.wikipedia.org/wiki/Parakeet)
 
-![parakeet][parakeet] 
+![parakeet][parakeet.png]
 
 ## Message Format
 
@@ -100,8 +100,6 @@ npm install --save parakeet
 > License: [ISC](LICENSE) &nbsp;&middot;&nbsp;
 > Github: [@ahmadnassri](https://github.com/ahmadnassri) &nbsp;&middot;&nbsp;
 > Twitter: [@ahmadnassri](https://twitter.com/ahmadnassri)
-
-[parakeet]: https://github.com/ahmadnassri/parakeet/blob/master/parakeet.png
 
 [license-url]: https://github.com/ahmadnassri/parakeet/blob/master/LICENSE
 
