@@ -8,9 +8,7 @@
 
 ![screenshot](screenshot.png)
 
-## Demo
-
-Watch the screencast [here](https://asciinema.org/a/bz8d1x2imc5zalplndczxgtek)
+Watch the screencast [here](https://asciinema.org/a/37456)
 
 ## Parakeet
 
