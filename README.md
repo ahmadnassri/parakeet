@@ -93,8 +93,6 @@ npm install --save parakeet
 
 ```
 
-## License
-
 ----
 > :copyright: [www.ahmadnassri.com](https://www.ahmadnassri.com/) &nbsp;&middot;&nbsp;
 > License: [ISC](LICENSE) &nbsp;&middot;&nbsp;
