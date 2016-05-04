@@ -65,7 +65,7 @@
     "cz-conventional-changelog": "^1.1.5",
     "echint": "^1.5.3",
     "semantic-release": "^4.3.5",
-    "standard": "^6.0.7"
+    "standard": "^7.0.1"
   },
   "dependencies": {
     "commander": "^2.9.0",
