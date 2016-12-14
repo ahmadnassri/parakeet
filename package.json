@@ -69,6 +69,6 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
-    "oh-my-log": "^4.0.0"
+    "oh-my-log": "^5.0.0"
   }
 }
