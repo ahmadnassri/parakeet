@@ -63,7 +63,7 @@
     "babel-preset-es2015": "^6.5.0",
     "babel-register": "*",
     "cz-conventional-changelog": "^1.1.5",
-    "echint": "^2.0.0",
+    "echint": "^3.0.0",
     "semantic-release": "^6.3.2",
     "standard": "^8.0.0"
   },
