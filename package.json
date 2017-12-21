@@ -64,7 +64,7 @@
     "babel-register": "*",
     "cz-conventional-changelog": "^1.1.5",
     "echint": "^4.0.1",
-    "semantic-release": "^6.3.2",
+    "semantic-release": "^11.0.2",
     "standard": "^10.0.0-beta.0"
   },
   "dependencies": {
