@@ -1,0 +1,16 @@
+_extends: .github
+
+repository:
+  name: parakeet
+  description: Echo server for TCP/UDP/HTTP
+  topics: debug,echo,http,mock,parakeet,server,tcp,udp
+  homepage: https://github.com/ahmadnassri/parakeet
+  private: false
+  has_issues: true
+  has_wiki: false
+  has_downloads: false
+  has_projects: false
+  default_branch: master
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true
